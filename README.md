@@ -41,14 +41,30 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: 
 RegisterNumber:  
 */
-Logic symbol & Truthtable
+### HALF ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/75515bab-f636-48f6-94ee-1b0f16329daa)
+
+### FULL ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/765a5d96-0921-47e2-98d6-a57b97a5e7c4)
+
 RTL realization
+### HALF ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/c7a84c8d-2b87-4146-a1ba-05688d249c7b)
 
-### Output:
-### RTL
-### TIMING DIAGRAM
-
+### FULL ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/a1046f2b-1a75-4fa4-9e7f-22b1d57a0d0b)
 
 ### TRUTH TABLE 
+### HALF ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/e24a849c-1559-4a08-b2f9-28a32dbb2ea5)
 
+### FULL ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/222de92e-dd03-4d91-8a0a-38d7942e01a5)
+
+### OUTPUT
+### HALF ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/b078dae1-0e35-42b6-8287-d85ac80de0fa)
+
+### FULL ADDER
+![image](https://github.com/srimathi1602/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/153518608/c740cce4-fe41-4fb3-ab76-de1fc9bb7b3f)
 ### Result:
